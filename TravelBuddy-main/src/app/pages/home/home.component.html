@@ -1,0 +1,45 @@
+<div>
+  <img src="..\assets\IMG_20221028_173509.jpg" class="home-img" />
+</div>
+
+<div class="container">
+  <!-- Section 2: Upcoming Treks -->
+  <div class="row">
+    <div class="col">
+      <div class="heading">
+        <h3>Upcoming Treks</h3>
+      </div>
+      <app-carousel [slides]="treks"></app-carousel>
+    </div>
+  </div>
+
+  <!-- Section 3: Camping Event -->
+  <div class="row">
+    <div class="col">
+      <div class="heading">
+        <h3>Camping Event</h3>
+      </div>
+      <app-carousel [slides]="camps"></app-carousel>
+    </div>
+  </div>
+
+  <!-- Section 4: Adventure Event -->
+  <div class="row">
+    <div class="col">
+      <div class="heading">
+        <h3>Adventure Event</h3>
+      </div>
+      <app-carousel [slides]="adventures"></app-carousel>
+    </div>
+  </div>
+
+  <!-- Section 5: Backpacking Event -->
+  <div class="row">
+    <div class="col">
+      <div class="heading">
+        <h3>Backpacking Event</h3>
+      </div>
+      <app-carousel [slides]="backpacks"></app-carousel>
+    </div>
+  </div>
+</div>

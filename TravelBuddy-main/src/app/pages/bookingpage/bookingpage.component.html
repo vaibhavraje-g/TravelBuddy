@@ -1,0 +1,15 @@
+<div class="booking-page">
+  <h2>Booking Details</h2>
+  <div class="event-details">
+    <h3>{{ event.title }}</h3>
+    <p>Date: {{ event.date.start_date | date }} - {{ event.date.end_date | date }}</p>
+    <p>Price: {{ event.price }}</p>
+    <!-- Add more event details as needed -->
+  </div>
+  <div class="payment-options">
+    <h3>Payment Options</h3>
+    <img [src]="event.qrCodePaymentUrl" alt="QR Code for Payment">
+    <p>Scan the QR code to make the payment</p>
+  </div>
+  <button (click)="confirmBooking()">Confirm Booking</button>
+</div>
