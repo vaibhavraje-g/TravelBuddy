@@ -1,13 +1,13 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './pages/home/home.component';
-import { DestinationsComponent } from './pages/destinations/destinations.component';
-import { AboutusComponent } from './pages/aboutus/aboutus.component';
-import { ContactComponent } from './pages/contact/contact.component';
-import { AddDataComponent } from './add-data/add-data.component';
-import { BookingpageComponent } from './pages/bookingpage/bookingpage.component';
-import { GoogleFormPageComponent } from './pages/google-form-page/google-form-page.component';
-import { ViewAllPageComponent } from './pages/view-all-page/view-all-page.component';
+import { HomeComponent } from './components/home/home.component';
+import { DestinationsComponent } from './components/destinations/destinations.component';
+import { AboutusComponent } from './components/aboutus/aboutus.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { AddDataComponent } from './components/add-data/add-data.component';
+import { BookingpageComponent } from './components/bookingpage/bookingpage.component';
+import { GoogleFormPageComponent } from './components/google-form-page/google-form-page.component';
+import { ViewAllPageComponent } from './components/view-all-page/view-all-page.component';
 
 const routes: Routes = [
   {path: '', component:HomeComponent},

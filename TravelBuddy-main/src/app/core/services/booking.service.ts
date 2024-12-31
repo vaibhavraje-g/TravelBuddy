@@ -1,16 +1,15 @@
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
 import { ApiService } from './api.service';
-import { Event } from '../models/event.model';
 
 @Injectable({
   providedIn: 'root',
 })
 export class BookingService {
-  eventToBeBooked: { eventType: string; eventId: string; eventData: Event } = {
+  eventToBeBooked: { eventType: string; eventId: string; eventData: any } = {
     eventType: '',
     eventId: '',
-    eventData: {} as Event,
+    eventData: {} ,
   };
 
   constructor(private apiService: ApiService, private router: Router) {}

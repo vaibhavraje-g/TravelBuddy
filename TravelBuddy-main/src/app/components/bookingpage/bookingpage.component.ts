@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { BookingService } from '../../core/services/booking.service';
-import { Event } from '../../core/models/event.model';
 
 @Component({
   selector: 'app-bookingpage',
@@ -8,7 +7,7 @@ import { Event } from '../../core/models/event.model';
   styleUrls: ['./bookingpage.component.css']
 })
 export class BookingpageComponent implements OnInit {
-  event: Event;
+  event: any;
 
   constructor(private bookingService: BookingService) {}
 

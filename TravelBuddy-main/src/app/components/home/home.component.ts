@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from '../../core/services/api.service';
-import { Event } from '../../core/models/event.model';
 
 @Component({
   selector: 'app-home',
