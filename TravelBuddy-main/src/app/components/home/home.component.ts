@@ -1,42 +1,59 @@
 import { Component, OnInit } from '@angular/core';
-import { ApiService } from '../../core/services/api.service';
+import { TrekkingService } from '../../shared/services/trekking/trekking.service';
+import { CampingService } from '../../shared/services/camping/camping.service';
+import { AdventureService } from '../../shared/services/adventure/adventure.service';
+import { BackpackingService } from '../../shared/services/backpacking/backpacking.service';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  styleUrls: ['./home.component.css'],
 })
 export class HomeComponent implements OnInit {
-  treks: Event[] = [];
-  camps: Event[] = [];
-  adventures: Event[] = [];
-  backpacks: Event[] = [];
+  treks: any[] = [];
+  camps: any[] = [];
+  adventures: any[] = [];
+  backpacks: any[] = [];
 
-  constructor(private apiService: ApiService) {}
+  constructor(
+    private trekkingService: TrekkingService,
+    private campingService: CampingService,
+    private adventureService: AdventureService,
+    private backpackingService: BackpackingService
+  ) {}
 
-  ngOnInit() {
-    this.loadData();
+  ngOnInit(): void {
+    this.loadTrekkingEvents();
+    this.loadCampingEvents();
+    this.loadAdventureEvents();
+    this.loadBackpackingEvents();
   }
 
-  loadData() {
-    this.apiService.getAllEvents('treks').subscribe(
-      (data: Event[]) => this.treks = data,
-      error => console.error('Error fetching treks:', error)
+  private loadTrekkingEvents(): void {
+    this.trekkingService.getAllTreks().subscribe(
+      (data: any[]) => (this.treks = data),
+      (error) => console.error('Error fetching trekking events:', error)
     );
+  }
 
-    this.apiService.getAllEvents('camps').subscribe(
-      (data: Event[]) => this.camps = data,
-      error => console.error('Error fetching camps:', error)
+  private loadCampingEvents(): void {
+    this.campingService.getAllCamps().subscribe(
+      (data: any[]) => (this.camps = data),
+      (error) => console.error('Error fetching camping events:', error)
     );
+  }
 
-    this.apiService.getAllEvents('adventures').subscribe(
-      (data: Event[]) => this.adventures = data,
-      error => console.error('Error fetching adventures:', error)
+  private loadAdventureEvents(): void {
+    this.adventureService.getAllAdventure().subscribe(
+      (data: any[]) => (this.adventures = data),
+      (error) => console.error('Error fetching adventure events:', error)
     );
+  }
 
-    this.apiService.getAllEvents('backpacks').subscribe(
-      (data: Event[]) => this.backpacks = data,
-      error => console.error('Error fetching backpacks:', error)
+  private loadBackpackingEvents(): void {
+    this.backpackingService.getAllBackpacks().subscribe(
+      (data: any[]) => (this.backpacks = data),
+      (error) => console.error('Error fetching backpacking events:', error)
     );
   }
 }

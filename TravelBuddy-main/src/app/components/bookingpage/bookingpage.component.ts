@@ -22,7 +22,6 @@ export class BookingpageComponent implements OnInit {
       },
       error => {
         console.error('Booking failed:', error);
-        // Handle error (e.g., show error message to user)
       }
     );
   }

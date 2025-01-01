@@ -1,8 +1,8 @@
 import { Component, Input, OnInit, OnDestroy } from '@angular/core';
 import { interval, Subscription } from 'rxjs';
 import { Router } from '@angular/router';
-import { BookingService } from 'src/app/shared/services/booking-service/booking.service';
-import { SlidesService } from 'src/app/shared/services/slides-service/slides.service';
+import { BookingService } from '../../../shared/services/booking-service/booking.service';
+import { SlidesService } from '../../../shared/services/slides-service/slides.service';
 
 @Component({
   selector: 'app-carousel',

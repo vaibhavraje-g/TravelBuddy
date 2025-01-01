@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { BookingService } from 'src/app/shared/services/booking-service/booking.service';
-import { SlidesService } from 'src/app/shared/services/slides-service/slides.service';
+import { BookingService } from '../../shared/services/booking-service/booking.service';
+import { SlidesService } from '../../shared/services/slides-service/slides.service';
 
 @Component({
   selector: 'app-view-all-page',
@@ -10,11 +10,11 @@ import { SlidesService } from 'src/app/shared/services/slides-service/slides.ser
 })
 export class ViewAllPageComponent implements OnInit {
   slides: any[] = [];
-  eventTitle: string = ''; // Add this line to store the event title
+  eventTitle: string = '';
 
   constructor(
-    private router: Router, 
-    private bookingService: BookingService, 
+    private router: Router,
+    private bookingService: BookingService,
     private slidesService: SlidesService
   ) {}
 
