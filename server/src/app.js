@@ -10,9 +10,13 @@ const swaggerUi = require("swagger-ui-express");
 const swaggerFile = require("./swagger-output.json");
 
 require("dotenv").config();
+const connectDB = require("./config/db.config");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// Database connection
+connectDB();
 
 // Swagger documentation
 app.use("/doc", swaggerUi.serve, swaggerUi.setup(swaggerFile));

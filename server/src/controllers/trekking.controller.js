@@ -1,7 +1,8 @@
 const createError = require("http-errors");
+const mongoose = require("mongoose");
 const Trekking = require("../models/trekking");
 
-// Users array
+// Users array for authorization
 const users = ["akash.borude", "vaibhavraje.gaikwad", "tejas.gandhi"];
 
 // Get all trekking data
@@ -14,9 +15,12 @@ const getAllTreks = async (req, res, next) => {
   }
 };
 
-// Get a specific trek by ID
+// Get a specific trek by ID with optional ID validity check
 const getTrekById = async (req, res, next) => {
   const id = req.params.id;
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    return next(createError(400, "Invalid trek ID"));
+  }
   try {
     const trek = await Trekking.findById(id);
     if (!trek) {
@@ -31,12 +35,9 @@ const getTrekById = async (req, res, next) => {
 // Create a new trek
 const addNewTrek = async (req, res, next) => {
   const modifiedBy = req.body.modifiedBy;
-
-  // Check if the user is authorized to modify the data
   if (!users.includes(modifiedBy)) {
     return next(createError(403, "You are not authorized to modify the data"));
   }
-
   const newTrek = new Trekking(req.body);
   try {
     const savedTrek = await newTrek.save();
@@ -49,16 +50,14 @@ const addNewTrek = async (req, res, next) => {
 // Create multiple new treks
 const addNewTreks = async (req, res, next) => {
   const modifiedBy = req.body.modifiedBy;
-
-  // Check if the user is authorized to modify the data
   if (!users.includes(modifiedBy)) {
     return next(createError(403, "You are not authorized to modify the data"));
   }
-
   try {
     const createdTreks = [];
-    for (const trekData of req.body.treks) {
-      const newTrek = new Trekking({ ...trekData, modifiedBy });
+    // Use a different variable name to avoid shadowing
+    for (const trekItem of req.body.treks) {
+      const newTrek = new Trekking({ ...trekItem, modifiedBy });
       const savedTrek = await newTrek.save();
       createdTreks.push(savedTrek);
     }
@@ -72,12 +71,9 @@ const addNewTreks = async (req, res, next) => {
 const updateTrekById = async (req, res, next) => {
   const id = req.params.id;
   const modifiedBy = req.body.modifiedBy;
-
-  // Check if the user is authorized to modify the data
   if (!users.includes(modifiedBy)) {
     return next(createError(403, "You are not authorized to modify the data"));
   }
-
   try {
     const updatedTrek = await Trekking.findByIdAndUpdate(
       id,
@@ -97,12 +93,9 @@ const updateTrekById = async (req, res, next) => {
 const deleteTrekById = async (req, res, next) => {
   const id = req.params.id;
   const modifiedBy = req.body.modifiedBy;
-
-  // Check if the user is authorized to modify the data
   if (!users.includes(modifiedBy)) {
     return next(createError(403, "You are not authorized to modify the data"));
   }
-
   try {
     const deletedTrek = await Trekking.findByIdAndDelete(id);
     if (!deletedTrek) {
