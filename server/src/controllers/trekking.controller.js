@@ -113,5 +113,5 @@ module.exports = {
   addNewTrek,
   addNewTreks,
   updateTrekById,
-  deleteTrekById
+  deleteTrekById,
 };

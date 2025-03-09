@@ -1,0 +1,2084 @@
+[{
+  "_id": {
+    "$oid": "6623f14e7a316be3a235e743"
+  },
+  "image": "https://example.com/Pawana.jpg",
+  "title": "Pawana Lake Camping ",
+  "date": {
+    "start_date": {
+      "$date": "2024-05-04T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-05-05T00:00:00.000Z"
+    }
+  },
+  "location": "Pawana Dam Tal. Maval Dis. Pune",
+  "details": "Looking for a chilling and rocking weekend come join us for thrilling experience .Cool breeze and a tent beside you with your friends and a bonfire to make it special evening and karaoke and ghost stories",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-05-04T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e744"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-05-11T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e745"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "description": "01:00 AM : Off to sleep ( who are sleepy)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e746"
+      }
+    },
+    {
+      "day": 2,
+      "description": "11:00 AM : Check out from the campsite nomad!!! Back to city life.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e747"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Pawana Dam Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e748"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e749"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74a"
+      }
+    },
+    {
+      "item": "BBQ (Limited)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74b"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74c"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74d"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74e"
+      }
+    },
+    {
+      "item": "Adventure activities (Archery, Dart Game,Cricket, Football , Badminton, Carom, volleyball & More.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e74f"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e750"
+      }
+    },
+    {
+      "item": "Boating ( Rs. 250/- Charge)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e751"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e752"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e753"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e754"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e755"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e756"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e757"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e758"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e759"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75a"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75b"
+      }
+    },
+    {
+      "item": "Sleeping bags if needed (optional)",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75c"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75d"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75e"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e75f"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e760"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e761"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e762"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e763"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e764"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e765"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e766"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "6623f14e7a316be3a235e767"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623f20db4e67d5a60525f4e"
+  },
+  "image": "https://example.com/Panshet.jpg",
+  "title": "Panshet Lake Side Camping ",
+  "date": {
+    "start_date": {
+      "$date": "2024-05-04T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-05-05T00:00:00.000Z"
+    }
+  },
+  "location": "Panshet Dam Dis. Pune",
+  "details": "Looking for a chilling and rocking weekend come join us for thrilling experience .Cool breeze and a tent beside you with your friends and a bonfire to make it special evening and karaoke and ghost stories",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-05-04T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f4f"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-05-11T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f50"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "description": "01:00 AM : Off to sleep ( who are sleepy)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f51"
+      }
+    },
+    {
+      "day": 2,
+      "description": "11:00 AM : Check out from the campsite nomad!!! Back to city life.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f52"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Pawana Dam Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f53"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f54"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f55"
+      }
+    },
+    {
+      "item": "BBQ (Limited)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f56"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f57"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f58"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f59"
+      }
+    },
+    {
+      "item": "Adventure activities (Archery, Dart Game,Cricket, Football , Badminton, Carom, volleyball & More.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5a"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5b"
+      }
+    },
+    {
+      "item": "Boating ( Rs. 250/- Charge)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5c"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5d"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5e"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f5f"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f60"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f61"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f62"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f63"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f64"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f65"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f66"
+      }
+    },
+    {
+      "item": "Sleeping bags if needed (optional)",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f67"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f68"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f69"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6a"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6b"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6c"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6d"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6e"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f6f"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f70"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f71"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "6623f20db4e67d5a60525f72"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c6c8c8f32f3d2ae2d8e35"
+  },
+  "image": "https://example.com/Sandhan.jpg",
+  "title": "Fireflies Festival Sp. Sandhan Valley Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Samrad Village Bhandardara",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e36"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e37"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": " 1 (Saturday Afternoon)",
+      "description": "11:30 PM : Come to camp site & Night Stay under open Sky in Tents",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e38"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e39"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Samrad Village Tal. Akole Dis. Ahilyanagar",
+    "region": "Bhandardara",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3a"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3b"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3c"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3d"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3e"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e3f"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e40"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e41"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e42"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e43"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e44"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e45"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e46"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e47"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e48"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e49"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4a"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4b"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4c"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4d"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4e"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e4f"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e50"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e51"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e52"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e53"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e54"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e55"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664c6c8c8f32f3d2ae2d8e56"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c70a68f32f3d2ae2d8e58"
+  },
+  "image": "https://example.com/Rajmachi.jpg",
+  "title": "Fireflies Festival Sp. & Pre Monsoon CLoud Formation Rajmachi Fort Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Rajmachi Village Tal. Maval Dis. Pune",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e59"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5a"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1 (Saturday Afternoon)",
+      "description": "11:30 PM : Come to camp site & Night Stay under open Sky in Tents",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5b"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5c"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Rajmachi Village Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5d"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5e"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e5f"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e60"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e61"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e62"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e63"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e64"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e65"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e66"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e67"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e68"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e69"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6a"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6b"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6c"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6d"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6e"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e6f"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e70"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e71"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e72"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e73"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e74"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e75"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e76"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e77"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e78"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664c70a68f32f3d2ae2d8e79"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664dca11fc6b6f70fb61ad82"
+  },
+  "image": "https://media1.thrillophilia.com/filestore/k5m2lidp0yigzxxqt2upnutqv3z1_kalsubai.jpg?w=576&h=650",
+  "title": "Fireflies Festival Sp. & Pre Monsoon CLoud Formation Rajmachi Fort Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Rajmachi Village Tal. Maval Dis. Pune",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad83"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad84"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1 (Saturday Afternoon)",
+      "description": [
+        "11:30 PM : Come to camp site & Night Stay under open Sky in Tents"
+      ],
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad85"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": [
+        "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life."
+      ],
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad86"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Rajmachi Village Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad87"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad88"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad89"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8a"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8b"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8c"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8d"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8e"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad8f"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad90"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad91"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad92"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad93"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad94"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad95"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad96"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad97"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad98"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad99"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9a"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9b"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9c"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9d"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9e"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ad9f"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ada0"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ada1"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ada2"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664dca11fc6b6f70fb61ada3"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664dfc27fc6b6f70fb61c5b5"
+  },
+  "image": "https://media1.thrillophilia.com/filestore/k5m2lidp0yigzxxqt2upnutqv3z1_kalsubai.jpg?w=576&h=650",
+  "title": "Fireflies Festival Sp. & Pre Monsoon CLoud Formation Rajmachi Fort Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Rajmachi Village Tal. Maval Dis. Pune",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5b6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5b7"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1 (Saturday Afternoon)",
+      "description": [
+        "11:30 PM : Come to camp site & Night Stay under open Sky in Tents"
+      ],
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5b8"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": [
+        "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life."
+      ],
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5b9"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Rajmachi Village Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5ba"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5bb"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5bc"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5bd"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5be"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5bf"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c0"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c1"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c2"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c3"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c4"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c5"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c6"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c7"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c8"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5c9"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5ca"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5cb"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5cc"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5cd"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5ce"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5cf"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d0"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d1"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d2"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d3"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d4"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d5"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664dfc27fc6b6f70fb61c5d6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664dfc7bfc6b6f70fb61c5d8"
+  },
+  "image": "https://media1.thrillophilia.com/filestore/k5m2lidp0yigzxxqt2upnutqv3z1_kalsubai.jpg?w=576&h=650",
+  "title": "Fireflies Festival Sp. & Pre Monsoon CLoud Formation Rajmachi Fort Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Rajmachi Village Tal. Maval Dis. Pune",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5d9"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5da"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1 (Saturday Afternoon)",
+      "description": [
+        "11:30 PM : Come to camp site & Night Stay under open Sky in Tents"
+      ],
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5db"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": [
+        "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life."
+      ],
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5dc"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Rajmachi Village Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5dd"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5de"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5df"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e0"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e1"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e2"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e3"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e4"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e5"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e6"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e7"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e8"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5e9"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5ea"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5eb"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5ec"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5ed"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5ee"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5ef"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f0"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f1"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f2"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f3"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f4"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f5"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f6"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f7"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f8"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664dfc7bfc6b6f70fb61c5f9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664dfca7fc6b6f70fb61c61d"
+  },
+  "image": "https://media1.thrillophilia.com/filestore/k5m2lidp0yigzxxqt2upnutqv3z1_kalsubai.jpg?w=576&h=65012",
+  "title": "Fireflies Festival Sp. & Pre Monsoon CLoud Formation Rajmachi Fort Sunrise Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  "location": "Rajmachi Village Tal. Maval Dis. Pune",
+  "details": "Fireflies or lightning bugs make light within their bodies. This process is called bioluminescence and is shared by many other organisms, Multiple Exposure Shot capturing.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-08T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c61e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-15T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c61f"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1 (Saturday Afternoon)",
+      "description": [
+        "11:30 PM : Come to camp site & Night Stay under open Sky in Tents"
+      ],
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c620"
+      }
+    },
+    {
+      "day": "2 (Sunday Morning)",
+      "description": [
+        "10:00 AM : Have Breakfast, Check out from the campsite nomad!!! Back to city life."
+      ],
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c621"
+      }
+    }
+  ],
+  "camp_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageCamp": "Rajmachi Village Tal. Maval Dis. Pune",
+    "region": "Maval",
+    "totalTimeOfCamp": "00",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c622"
+      }
+    },
+    {
+      "item": "Welcome Snacks & Tea",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c623"
+      }
+    },
+    {
+      "item": "Tent Stay & Bedding ",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c624"
+      }
+    },
+    {
+      "item": "Unlimited Dinner (Veg/Non Veg)",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c625"
+      }
+    },
+    {
+      "item": "Music / Live Music",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c626"
+      }
+    },
+    {
+      "item": "Campfire with Music System & Dancing",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c627"
+      }
+    },
+    {
+      "item": "Morning Breakfast",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c628"
+      }
+    },
+    {
+      "item": "Free Parking",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c629"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62a"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62b"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62c"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62d"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62e"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c62f"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c630"
+      }
+    },
+    {
+      "item": "Some are ready to eat food. cakes,lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c631"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c632"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c633"
+      }
+    },
+    {
+      "item": "Pleases do not carry sling bags",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c634"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other orna",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c635"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c636"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c637"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with childrens for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c638"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c639"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c63a"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c63b"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c63c"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c63d"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event ?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "664dfca7fc6b6f70fb61c63e"
+      }
+    }
+  ],
+  "__v": 0
+}]

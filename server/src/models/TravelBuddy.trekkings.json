@@ -1,0 +1,3313 @@
+[{
+  "_id": {
+    "$oid": "6620ee040bc32fdb6ce20b7b"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dHqemt2.webp"
+  },
+  "title": "Kalsubai Sunrise Sp. Night Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-29T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-30T00:00:00.000Z"
+    }
+  },
+  "location": "Bari Village, Tal Akole Dis. Ahilyanagar",
+  "details": "Kalsubai Peak Trek with a height of 1646 meters or 5400 Feet is famous as the highest peak in Maharashtra. Kalsubai Mountain lies in the Sahyadri mountain range falling under Kalsubai Harishchandragad Wildlife Sanctuary",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b7c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-13T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b7d"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2932"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Nashik Phata",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2933"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Bhosari Chowk",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2934"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Chakan Chowk",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2935"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667526cfebfe29bd0bcf2931"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Bari",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2937"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Get ready",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2938"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2939"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293a"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach Top of the Peak and Enjoy Beautiful Cloud formation at Peak and Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293b"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Sunrise & Explore View",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293c"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293d"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293e"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf293f"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2940"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "667526cfebfe29bd0bcf2941"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667526cfebfe29bd0bcf2936"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Bari",
+    "region": "Bhandardara",
+    "totalTimeOfTrek": "03 Hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b80"
+      }
+    },
+    {
+      "item": "Breakfast",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b81"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b82"
+      }
+    },
+    {
+      "item": "Lunch",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b83"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b84"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b85"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b86"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b87"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b88"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b89"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Torch",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8a"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8b"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8c"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8d"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8e"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b8f"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b90"
+      }
+    },
+    {
+      "item": "Good grip trekking shoes",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b91"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b92"
+        }
+      },
+      {
+        "location": "Nashik Phata",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b93"
+        }
+      },
+      {
+        "location": "Bhosari Chowk",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b94"
+        }
+      },
+      {
+        "location": "Moshi Chowk",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b95"
+        }
+      },
+      {
+        "location": "Chakan Chowk",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b96"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Kasara Railway Station",
+        "_id": {
+          "$oid": "6620ee040bc32fdb6ce20b97"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b98"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b99"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9a"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9b"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9c"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9d"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9e"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20b9f"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "6620ee040bc32fdb6ce20ba0"
+      }
+    }
+  ],
+  "__v": 0,
+  "price": "1399/- PP",
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?usp=sf_link"
+},
+{
+  "_id": {
+    "$oid": "6620fee8c8af8a5444772ded"
+  },
+  "image": "https://example.com/velas.jpg",
+  "title": "Velas Turtle Festival",
+  "date": {
+    "start_date": {
+      "$date": "2024-04-20T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-04-21T00:00:00.000Z"
+    }
+  },
+  "location": "Velas Beach, Tal. Mandangad Dis. Ratnagiri",
+  "details": "In the year 2000-01, it was found that a species of turtle, Olive Ridley is a prominent visitor to the shores of Maharashtra for breeding purposes. Other species are the Green Turtle, Hawksbill and the Leatherback. A lot of the other information",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-04-27T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dee"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-05-04T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772def"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "description": "Saturday Night Leave from Pune 09.00 pm Pickup First pickup 01 : Shivaji Nagar Infront of Maharashtra Bank Second Pickup 02 : Chandni chowk",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df0"
+      }
+    },
+    {
+      "day": 2,
+      "description": "09:00 PM Reach Home with Loads of Memories",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df1"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageTrek": "Velas Beach",
+    "region": "Ratnagiri",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df2"
+      }
+    },
+    {
+      "item": "Authentic Konkani Meals at Velas (Breakfast & Lunch)",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df3"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df4"
+      }
+    },
+    {
+      "item": "Velas Turtle sightings by early morning ",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df5"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df6"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df7"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df8"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772df9"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dfa"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dfb"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dfc"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dfd"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dfe"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772dff"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e00"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e01"
+      }
+    },
+    {
+      "item": "Shoes / Chappal",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e02"
+      }
+    },
+    {
+      "item": "Suncap or Sunscreen",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e03"
+      }
+    },
+    {
+      "item": "Please carry a  Jacket & cover your phones also in a plastic cover",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e04"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "6620fee8c8af8a5444772e05"
+        }
+      },
+      {
+        "location": "Breman Chowk Aundh",
+        "_id": {
+          "$oid": "6620fee8c8af8a5444772e06"
+        }
+      },
+      {
+        "location": "Wakad Chowk",
+        "_id": {
+          "$oid": "6620fee8c8af8a5444772e07"
+        }
+      },
+      {
+        "location": "Shivaji Chowk Hinjewadi",
+        "_id": {
+          "$oid": "6620fee8c8af8a5444772e08"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Kasara Railway Station",
+        "_id": {
+          "$oid": "6620fee8c8af8a5444772e09"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0a"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0b"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0c"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0d"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0e"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e0f"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e10"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e11"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "6620fee8c8af8a5444772e12"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662208546ced05241958af30"
+  },
+  "image": "<a href='https://postimg.cc/cgkmjLCD' target='_blank'><img src='https://i.postimg.cc/cgkmjLCD/Picsart-24-06-10-15-44-47-916.jpg' border='0' alt='Picsart-24-06-10-15-44-47-916'/></a>",
+  "title": "Vasota Fort Boating and Camping Trek Event",
+  "date": {
+    "start_date": {
+      "$date": "2024-04-19T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-04-22T00:00:00.000Z"
+    }
+  },
+  "location": "Bamnoli Tal. Kaas Dis. Satara",
+  "details": "Vasota Fort Trek ",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-04-27T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "662208546ced05241958af31"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-05-04T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "662208546ced05241958af32"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1",
+      "description": "Around 02:00 AM Sleep in Tent",
+      "_id": {
+        "$oid": "662208546ced05241958af33"
+      }
+    },
+    {
+      "day": "2",
+      "description": "05:00 PM Start Return Journey with Beautiful Memories",
+      "_id": {
+        "$oid": "662208546ced05241958af34"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Bamnoli Village",
+    "region": "Satara",
+    "totalTimeOfTrek": "04 hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "662208546ced05241958af35"
+      }
+    },
+    {
+      "item": "Breakfast and Tea",
+      "_id": {
+        "$oid": "662208546ced05241958af36"
+      }
+    },
+    {
+      "item": "One Lunch - Veg/NonVeg",
+      "_id": {
+        "$oid": "662208546ced05241958af37"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "662208546ced05241958af38"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "662208546ced05241958af39"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "662208546ced05241958af3a"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "662208546ced05241958af3b"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Travelling Dinner (Our captains will provide you with the best options we can offer you)",
+      "_id": {
+        "$oid": "662208546ced05241958af3c"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "662208546ced05241958af3d"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "662208546ced05241958af3e"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "662208546ced05241958af3f"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "662208546ced05241958af40"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "662208546ced05241958af41"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "662208546ced05241958af42"
+      }
+    },
+    {
+      "item": "Extra pair of clothes after trek use",
+      "_id": {
+        "$oid": "662208546ced05241958af43"
+      }
+    },
+    {
+      "item": "2 or 3 Litre Water Must",
+      "_id": {
+        "$oid": "662208546ced05241958af44"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "662208546ced05241958af45"
+      }
+    },
+    {
+      "item": "Shoes with Good Grip",
+      "_id": {
+        "$oid": "662208546ced05241958af46"
+      }
+    },
+    {
+      "item": "Suncap or Sunscreen",
+      "_id": {
+        "$oid": "662208546ced05241958af47"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "662208546ced05241958af48"
+        }
+      },
+      {
+        "location": "Deccan",
+        "_id": {
+          "$oid": "662208546ced05241958af49"
+        }
+      },
+      {
+        "location": "Swargate",
+        "_id": {
+          "$oid": "662208546ced05241958af4a"
+        }
+      },
+      {
+        "location": "Nawale Bridge",
+        "_id": {
+          "$oid": "662208546ced05241958af4b"
+        }
+      }
+    ],
+    "mumbai": []
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "662208546ced05241958af4c"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "662208546ced05241958af4d"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "662208546ced05241958af4e"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "662208546ced05241958af4f"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "662208546ced05241958af50"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "662208546ced05241958af51"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "662208546ced05241958af52"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "662208546ced05241958af53"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "662208546ced05241958af54"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662209b56ced05241958af56"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dHqebwl.jpg"
+  },
+  "title": "Harishchandragad Monsoon Sp. Trek",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-23T00:00:00.000Z"
+    }
+  },
+  "location": "Pachnai Village Tal. Akole Dis. Ahilyanagar",
+  "details": "Harischandragad Fort is one of the best hill forts in the Ahmednagar region. It's a very popular trekking destination due to the amazing views that one can get from the top.\nThe main attraction at Harishchandragad is the Konkan Kada from where you get a nice view of Konkan. The structure of this kada is like an overhang and during the monsoon season, clouds get clustered under this kada. The view is just spectacular.\nIn short, Harischandragad trek has a lot to offer. So if you've not been here, do plan for it. It's a must visit place.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "662209b56ced05241958af57"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-13T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "662209b56ced05241958af58"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff89fe"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Nashik Phata",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff89ff"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Bhosari Chowk",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a00"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Chakan Chowk",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a01"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66754918a2e43d9117ff89fd"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Pachnai",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a03"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Get ready",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a04"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a05"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a06"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach Top of the Fort and Enjoy Beautiful Cloud formation at Fort and Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a07"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Kokankada, Kedareshwar temple & Explore View",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a08"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a09"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a0a"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a0b"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a0c"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "66754918a2e43d9117ff8a0d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66754918a2e43d9117ff8a02"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Pachnai Village  Tal. Akole Dis. Ahilyanagar",
+    "region": "Bhandardara",
+    "totalTimeOfTrek": "04 hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "662209b56ced05241958af5b"
+      }
+    },
+    {
+      "item": "Breakfast and Tea",
+      "_id": {
+        "$oid": "662209b56ced05241958af5c"
+      }
+    },
+    {
+      "item": "One Lunch - Veg/NonVeg",
+      "_id": {
+        "$oid": "662209b56ced05241958af5d"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "662209b56ced05241958af5e"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "662209b56ced05241958af5f"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "662209b56ced05241958af60"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "662209b56ced05241958af61"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Travelling Dinner (Our captains will provide you with the best options we can offer you)",
+      "_id": {
+        "$oid": "662209b56ced05241958af62"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "662209b56ced05241958af63"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "662209b56ced05241958af64"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "662209b56ced05241958af65"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "662209b56ced05241958af66"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "662209b56ced05241958af67"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "662209b56ced05241958af68"
+      }
+    },
+    {
+      "item": "Extra pair of clothes after trek use",
+      "_id": {
+        "$oid": "662209b56ced05241958af69"
+      }
+    },
+    {
+      "item": "2 or 3 Litre Water Must",
+      "_id": {
+        "$oid": "662209b56ced05241958af6a"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "662209b56ced05241958af6b"
+      }
+    },
+    {
+      "item": "Shoes with Good Grip",
+      "_id": {
+        "$oid": "662209b56ced05241958af6c"
+      }
+    },
+    {
+      "item": "Suncap or Sunscreen",
+      "_id": {
+        "$oid": "662209b56ced05241958af6d"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "662209b56ced05241958af6e"
+        }
+      },
+      {
+        "location": "Nashik Phata",
+        "_id": {
+          "$oid": "662209b56ced05241958af6f"
+        }
+      },
+      {
+        "location": "Bhosari Chowk",
+        "_id": {
+          "$oid": "662209b56ced05241958af70"
+        }
+      },
+      {
+        "location": "Moshi Chowk",
+        "_id": {
+          "$oid": "662209b56ced05241958af71"
+        }
+      }
+    ],
+    "mumbai": []
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "662209b56ced05241958af72"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "662209b56ced05241958af73"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "662209b56ced05241958af74"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "662209b56ced05241958af75"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "662209b56ced05241958af76"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "662209b56ced05241958af77"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "662209b56ced05241958af78"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "662209b56ced05241958af79"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "662209b56ced05241958af7a"
+      }
+    }
+  ],
+  "__v": 0,
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true",
+  "modifiedBy": "akash.borude",
+  "price": "1399/- Per Person"
+},
+{
+  "_id": {
+    "$oid": "66683588d0a6d0b1df4ab7cc"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dHqe6Gt.jpg"
+  },
+  "title": "Ratangad Fort trek - Monsoon Special",
+  "price": "1299/- Per person",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-23T00:00:00.000Z"
+    }
+  },
+  "location": "Samrad Village Tal. Akole Dis. Ahilyanagar",
+  "details": "Ratangad is a stunning fort in the Kalsubai range of the Sahyadris, with a unique feature of a natural arch on top",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-29T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "66683b39e69437430764c53d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "66683b39e69437430764c53e"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "667320b248f819c0072928ae"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Nashik Phata",
+          "_id": {
+            "$oid": "667320b248f819c0072928af"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Bhosari Chowk",
+          "_id": {
+            "$oid": "667320b248f819c0072928b0"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Chakan Chowk",
+          "_id": {
+            "$oid": "667320b248f819c0072928b1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667320b248f819c0072928ad"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Smarad",
+          "_id": {
+            "$oid": "667320b248f819c0072928b3"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Get ready",
+          "_id": {
+            "$oid": "667320b248f819c0072928b4"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "667320b248f819c0072928b5"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "667320b248f819c0072928b6"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach Top of the Fort and Enjoy Beautiful Cloud formation at Fort and Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "667320b248f819c0072928b7"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Sunrise & Explore View",
+          "_id": {
+            "$oid": "667320b248f819c0072928b8"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "667320b248f819c0072928b9"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "667320b248f819c0072928ba"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "667320b248f819c0072928bb"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "667320b248f819c0072928bc"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "667320b248f819c0072928bd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667320b248f819c0072928b2"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Samrad Village  Tal. Akole Dis. Ahilyanagar",
+    "region": "Bhandardara",
+    "totalTimeOfTrek": "04 hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "66683b39e69437430764c541"
+      }
+    },
+    {
+      "item": "Breakfast and Tea",
+      "_id": {
+        "$oid": "66683b39e69437430764c542"
+      }
+    },
+    {
+      "item": "One Lunch - Veg/NonVeg",
+      "_id": {
+        "$oid": "66683b39e69437430764c543"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "66683b39e69437430764c544"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "66683b39e69437430764c545"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "66683b39e69437430764c546"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "66683b39e69437430764c547"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Travelling Dinner (Our captains will provide you with the best options we can offer you)",
+      "_id": {
+        "$oid": "66683b39e69437430764c548"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "66683b39e69437430764c549"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "66683b39e69437430764c54a"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "66683b39e69437430764c54b"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "66683b39e69437430764c54c"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "66683b39e69437430764c54d"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "66683b39e69437430764c54e"
+      }
+    },
+    {
+      "item": "Extra pair of clothes after trek use",
+      "_id": {
+        "$oid": "66683b39e69437430764c54f"
+      }
+    },
+    {
+      "item": "2 or 3 Litre Water Must",
+      "_id": {
+        "$oid": "66683b39e69437430764c550"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "66683b39e69437430764c551"
+      }
+    },
+    {
+      "item": "Shoes with Good Grip",
+      "_id": {
+        "$oid": "66683b39e69437430764c552"
+      }
+    },
+    {
+      "item": "Suncap or Sunscreen",
+      "_id": {
+        "$oid": "66683b39e69437430764c553"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "66683b39e69437430764c539"
+        }
+      },
+      {
+        "location": "Nashik Phata",
+        "_id": {
+          "$oid": "66683b39e69437430764c53a"
+        }
+      },
+      {
+        "location": "Bhosari Chowk",
+        "_id": {
+          "$oid": "66683b39e69437430764c53b"
+        }
+      },
+      {
+        "location": "Moshi Chowk",
+        "_id": {
+          "$oid": "66683b39e69437430764c53c"
+        }
+      }
+    ],
+    "mumbai": []
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "66683b39e69437430764c554"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "66683b39e69437430764c555"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "66683b39e69437430764c556"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "66683b39e69437430764c557"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "66683b39e69437430764c558"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "66683b39e69437430764c559"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "66683b39e69437430764c55a"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "66683b39e69437430764c55b"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "66683b39e69437430764c55c"
+      }
+    }
+  ],
+  "__v": 0,
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true"
+},
+{
+  "_id": {
+    "$oid": "666b38a7e69437430765127d"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dH01qcx.jpg"
+  },
+  "title": "Aadrai Jungle Trek Monsoon Sp.",
+  "price": "1399/- Per Person",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-23T00:00:00.000Z"
+    }
+  },
+  "location": "Khireshwar Village, Tal Junner  Dis. Pune",
+  "details": "Experience the Aadrai Jungle trek with Kalu waterfall, beautiful forest, and experienced trek guides. Enjoy a refreshing day trek walk through the woods",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-29T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "666b38a7e69437430765127e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "666b38a7e69437430765127f"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf366e"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Nashik Phata",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf366f"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Bhosari Chowk",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3670"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Chakan Chowk",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3671"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66752a64ebfe29bd0bcf366d"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Khireshwar",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3673"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Take Rest",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3674"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3675"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3676"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach Top of the Kalu Waterfall and Enjoy Beautiful Scene of Kalu Waterfall, Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3677"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Waterfalls, Jungle Trail & Explore View",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3678"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf3679"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf367a"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf367b"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf367c"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "66752a64ebfe29bd0bcf367d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66752a64ebfe29bd0bcf3672"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Khireshwar",
+    "region": "Malshej Ghat",
+    "totalTimeOfTrek": "03 Hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "666b38a7e694374307651282"
+      }
+    },
+    {
+      "item": "Breakfast",
+      "_id": {
+        "$oid": "666b38a7e694374307651283"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "666b38a7e694374307651284"
+      }
+    },
+    {
+      "item": "Lunch",
+      "_id": {
+        "$oid": "666b38a7e694374307651285"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "666b38a7e694374307651286"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "666b38a7e694374307651287"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "666b38a7e694374307651288"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "666b38a7e694374307651289"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "666b38a7e69437430765128a"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "666b38a7e69437430765128b"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Torch",
+      "_id": {
+        "$oid": "666b38a7e69437430765128c"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "666b38a7e69437430765128d"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "666b38a7e69437430765128e"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "666b38a7e69437430765128f"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "666b38a7e694374307651290"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "666b38a7e694374307651291"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "666b38a7e694374307651292"
+      }
+    },
+    {
+      "item": "Good grip trekking shoes",
+      "_id": {
+        "$oid": "666b38a7e694374307651293"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "666b38a7e694374307651294"
+        }
+      },
+      {
+        "location": "Nashik Phata",
+        "_id": {
+          "$oid": "666b38a7e694374307651295"
+        }
+      },
+      {
+        "location": "Bhosari Chowk",
+        "_id": {
+          "$oid": "666b38a7e694374307651296"
+        }
+      },
+      {
+        "location": "Moshi Chowk",
+        "_id": {
+          "$oid": "666b38a7e694374307651297"
+        }
+      },
+      {
+        "location": "Chakan Chowk",
+        "_id": {
+          "$oid": "666b38a7e694374307651298"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Kalyan Railway Station",
+        "_id": {
+          "$oid": "666b38a7e694374307651299"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129a"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129b"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129c"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "666b38a7e69437430765129d"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undisciplined behaviour is prohibited",
+      "_id": {
+        "$oid": "666b38a7e69437430765129e"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129f"
+      }
+    },
+    {
+      "question": "What is the type of bus?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a0"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a1"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a2"
+      }
+    }
+  ],
+  "status": "Active",
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true"
+},
+{
+  "_id": {
+    "$oid": "66754f45c4233efb9076d6e0"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dHGVZOJ.jpg"
+  },
+  "status": "Active",
+  "title": "Andarban Jungle Trek Monsoon Sp.",
+  "price": "1199/- Per Person",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-23T00:00:00.000Z"
+    }
+  },
+  "location": "Pimpari Village, Tal Mulshi  Dis. Pune",
+  "details": "Experience the Andarban Jungle trek with dark Forest and Kundalika Valley, beautiful forest, and experienced trek guides. Enjoy a refreshing day trek walk through the woods",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-06-29T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6e1"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6e2"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6e4"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Nashik Phata",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6e5"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Bhosari Chowk",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6e6"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Chakan Chowk",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6e7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6e3"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Pimpari",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6e9"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Take Rest",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6ea"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6eb"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6ec"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach dark forest of the Andarban and Enjoy Beautiful Scene of Kundalika Valley, Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6ed"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Waterfalls, Jungle Trail & Explore View",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6ee"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6ef"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6f0"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6f1"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6f2"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "66754f45c4233efb9076d6f3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6e8"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Pimpari",
+    "region": "Tamhini Ghat",
+    "totalTimeOfTrek": "05 Hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f4"
+      }
+    },
+    {
+      "item": "Breakfast",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f5"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f6"
+      }
+    },
+    {
+      "item": "Lunch",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f7"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f8"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6f9"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6fa"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6fb"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6fc"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6fd"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Torch",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6fe"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d6ff"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d700"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d701"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d702"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d703"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d704"
+      }
+    },
+    {
+      "item": "Good grip trekking shoes",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d705"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d706"
+        }
+      },
+      {
+        "location": "Breman Chowk, Aundh",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d707"
+        }
+      },
+      {
+        "location": "Wakad Chowk",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d708"
+        }
+      },
+      {
+        "location": "Ch, Shivaji Chowk, Hinjewadi",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d709"
+        }
+      },
+      {
+        "location": "Maan Gaon Chowk Phase 2",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d70a"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Lonavala Railway Station",
+        "_id": {
+          "$oid": "66754f45c4233efb9076d70b"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d70c"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d70d"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d70e"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d70f"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undisciplined behaviour is prohibited",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d710"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d711"
+      }
+    },
+    {
+      "question": "What is the type of bus?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d712"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d713"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "66754f45c4233efb9076d714"
+      }
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true"
+},
+{
+  "_id": {
+    "$oid": "6675c7d8c4233efb9077a5ec"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dJA15LF.jpg"
+  },
+  "status": "Active",
+  "title": "Devkund Waterfall Trek Monsoon Sp.",
+  "price": "1299/- Per Person",
+  "date": {
+    "start_date": {
+      "$date": "2024-07-06T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-07-07T00:00:00.000Z"
+    }
+  },
+  "location": "Bhira Village, Dis. Sindhudurg",
+  "details": "Devkund Waterfall is a beautiful waterfall located in Maharashtra, India. It is also known as Tarkarli Waterfall and is a popular tourist attraction.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-07-13T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "666b38a7e69437430765127e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-20T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "666b38a7e69437430765127f"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f0"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Breman Chowk, Aundh",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f1"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Wakad Chowk",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f2"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Ch. Shivaji Chowk, Hinjewadi",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6675c7d8c4233efb9077a5ef"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Bhira",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f5"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Take Rest",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f6"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f7"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f8"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach  Waterfall and Enjoy Beautiful Scene of Devkund Waterfall, Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f9"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Waterfalls, Jungle Trail & Explore View",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fa"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fb"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fc"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fd"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fe"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5ff"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6675c7d8c4233efb9077a5f4"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Bhira",
+    "region": "Tamhini Ghat",
+    "totalTimeOfTrek": "03 Hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "666b38a7e694374307651282"
+      }
+    },
+    {
+      "item": "Breakfast",
+      "_id": {
+        "$oid": "666b38a7e694374307651283"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "666b38a7e694374307651284"
+      }
+    },
+    {
+      "item": "Lunch",
+      "_id": {
+        "$oid": "666b38a7e694374307651285"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "666b38a7e694374307651286"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "666b38a7e694374307651287"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "666b38a7e694374307651288"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "666b38a7e694374307651289"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "666b38a7e69437430765128a"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "666b38a7e69437430765128b"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Torch",
+      "_id": {
+        "$oid": "666b38a7e69437430765128c"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "666b38a7e69437430765128d"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "666b38a7e69437430765128e"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "666b38a7e69437430765128f"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "666b38a7e694374307651290"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "666b38a7e694374307651291"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "666b38a7e694374307651292"
+      }
+    },
+    {
+      "item": "Good grip trekking shoes",
+      "_id": {
+        "$oid": "666b38a7e694374307651293"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "666b38a7e694374307651294"
+        }
+      },
+      {
+        "location": "Breman Chowk, Aundh",
+        "_id": {
+          "$oid": "666b38a7e694374307651295"
+        }
+      },
+      {
+        "location": "Wakad Chowk",
+        "_id": {
+          "$oid": "666b38a7e694374307651296"
+        }
+      },
+      {
+        "location": "Ch. Shivaji Chowk, Hinjewadi",
+        "_id": {
+          "$oid": "666b38a7e694374307651297"
+        }
+      },
+      {
+        "location": "Maan Gaon Chowk, Hinjewadi Phase 2",
+        "_id": {
+          "$oid": "666b38a7e694374307651298"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Kalyan Railway Station",
+        "_id": {
+          "$oid": "666b38a7e694374307651299"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129a"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129b"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129c"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "666b38a7e69437430765129d"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undisciplined behaviour is prohibited",
+      "_id": {
+        "$oid": "666b38a7e69437430765129e"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129f"
+      }
+    },
+    {
+      "question": "What is the type of bus?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a0"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a1"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a2"
+      }
+    }
+  ],
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true"
+},
+{
+  "_id": {
+    "$oid": "6675cc4bc4233efb9077b9ef"
+  },
+  "image": {
+    "imageUrl": "https://freeimage.host/",
+    "imageSrc": "https://iili.io/dJaeMsn.jpg"
+  },
+  "status": "Active",
+  "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdUz6eXDf_7rdhzyX7cUOkpc1Fkwc1dG6nKY0cPZE7dS-bLNA/viewform?embedded=true",
+  "title": "Nanemachi Waterfall Trek Monsoon Sp.",
+  "price": "1299/- Per Person",
+  "date": {
+    "start_date": {
+      "$date": "2024-07-06T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-07-07T00:00:00.000Z"
+    }
+  },
+  "location": "Shewate Village, Tal. Mahad, Dis. Raigad",
+  "details": "Nanemachi waterfalls is a natural attraction inside a dense forest. You can feel the extraordinary energy of reaching this beautiful waterfall. The place is famous for its blue water that flows inside the waterfall. It has a depth of about 400 feet and is well hidden",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-07-13T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "666b38a7e69437430765127e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-20T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "666b38a7e69437430765127f"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1 (Saturday Night)",
+      "events": [
+        {
+          "time": "10:00 PM",
+          "description": "Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f0"
+          }
+        },
+        {
+          "time": "10:30 PM",
+          "description": "2nd Pick up Point Swargate Bus Stand",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f1"
+          }
+        },
+        {
+          "time": "11:00 PM",
+          "description": "3rd Pick up Point Katraj Chowk",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f2"
+          }
+        },
+        {
+          "time": "11:30 PM",
+          "description": "4th Pick up Point Nawale Bridge",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6675c7d8c4233efb9077a5ef"
+      }
+    },
+    {
+      "day": "Day 2 (Sunday)",
+      "events": [
+        {
+          "time": "03:00 AM",
+          "description": "Reach Base Village Shewate",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f5"
+          }
+        },
+        {
+          "time": "03:30 AM",
+          "description": "Freshen up & Take Rest",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f6"
+          }
+        },
+        {
+          "time": "04:30 AM",
+          "description": "Have Breakfast on Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f7"
+          }
+        },
+        {
+          "time": "05:30 AM",
+          "description": "Introduction round & Start the Trek",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f8"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Reach  Waterfall and Enjoy Beautiful Scene of Nanemachi Waterfall, Enjoy Scenic View of Sahyadri",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5f9"
+          }
+        },
+        {
+          "time": "07:30 AM",
+          "description": "Enjoy Beautiful Waterfalls, Jungle Trail & Explore View",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fa"
+          }
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Return Towards Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fb"
+          }
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Reach at Base Village",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fc"
+          }
+        },
+        {
+          "time": "01:00 PM",
+          "description": "Have Lunch",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fd"
+          }
+        },
+        {
+          "time": "02:00 PM",
+          "description": "Return Journey to Pune",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5fe"
+          }
+        },
+        {
+          "time": "09:30 PM",
+          "description": "Reach Pune / Mumbai with lots of Memories (Tentatively)",
+          "_id": {
+            "$oid": "6675c7d8c4233efb9077a5ff"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6675c7d8c4233efb9077a5f4"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Medium",
+    "baseVillageTrek": "Shevate",
+    "region": "Mahad",
+    "totalTimeOfTrek": "03 Hours",
+    "duration": "1 Night 1 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "666b38a7e694374307651282"
+      }
+    },
+    {
+      "item": "Breakfast",
+      "_id": {
+        "$oid": "666b38a7e694374307651283"
+      }
+    },
+    {
+      "item": "Tea / Coffee",
+      "_id": {
+        "$oid": "666b38a7e694374307651284"
+      }
+    },
+    {
+      "item": "Lunch",
+      "_id": {
+        "$oid": "666b38a7e694374307651285"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "666b38a7e694374307651286"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "666b38a7e694374307651287"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "666b38a7e694374307651288"
+      }
+    },
+    {
+      "item": "Forest Fee",
+      "_id": {
+        "$oid": "666b38a7e694374307651289"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Food During Travelling",
+      "_id": {
+        "$oid": "666b38a7e69437430765128a"
+      }
+    },
+    {
+      "item": "Water Bottle, Cold Drinks",
+      "_id": {
+        "$oid": "666b38a7e69437430765128b"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Torch",
+      "_id": {
+        "$oid": "666b38a7e69437430765128c"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "666b38a7e69437430765128d"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "666b38a7e69437430765128e"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "666b38a7e69437430765128f"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "666b38a7e694374307651290"
+      }
+    },
+    {
+      "item": "2/3 liters of water (Mandatory)",
+      "_id": {
+        "$oid": "666b38a7e694374307651291"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "666b38a7e694374307651292"
+      }
+    },
+    {
+      "item": "Good grip trekking shoes",
+      "_id": {
+        "$oid": "666b38a7e694374307651293"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "666b38a7e694374307651294"
+        }
+      },
+      {
+        "location": "Swargate",
+        "_id": {
+          "$oid": "666b38a7e694374307651295"
+        }
+      },
+      {
+        "location": "Katraj Chowk",
+        "_id": {
+          "$oid": "666b38a7e694374307651296"
+        }
+      },
+      {
+        "location": "Nawale Bridge",
+        "_id": {
+          "$oid": "666b38a7e694374307651297"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Mumbai",
+        "_id": {
+          "$oid": "666b38a7e694374307651299"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129a"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129b"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129c"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "666b38a7e69437430765129d"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undisciplined behaviour is prohibited",
+      "_id": {
+        "$oid": "666b38a7e69437430765129e"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "666b38a7e69437430765129f"
+      }
+    },
+    {
+      "question": "What is the type of bus?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a0"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a1"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "666b38a7e6943743076512a2"
+      }
+    }
+  ]
+}]

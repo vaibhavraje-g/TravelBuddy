@@ -1,0 +1,285 @@
+[{
+  "_id": {
+    "$oid": "66572b0b160018fdf8cd13f4"
+  },
+  "image": "https://example.com/Malvan.jpg",
+  "title": "Malvan - Tarkarli Backpacking Tour",
+  "date": {
+    "start_date": {
+      "$date": "2024-06-29T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-30T00:00:00.000Z"
+    }
+  },
+  "price": "5555/- PP",
+  "location": "Malvan Tal. Malvan Dis. Sindhudurg",
+  "details": "Malvan Tarkarli is located in Sindhudurg Taluka in the state of Maharashtra, India. It is a popular tourist destination known for its beautiful beaches, water sports, and seafood.",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-07-06T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13f5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-13T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13f6"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "1",
+      "description": "Leaving Friday Night 10:00 PM:\n10:00 PM: Meet TB leader at 1st Pick up point Bank of Maharashtra Shivaji Nagar\n10:30 PM: 2nd Pick up Point Swargate\n11:00 PM: 3rd Pick up Point Katraj",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13f7"
+      }
+    },
+    {
+      "day": "2",
+      "description": "Saturday:\n06:00 AM: Reach Malvan\n07:00 AM: Check-in for Room & have Breakfast\n08:00 AM: Take Rest\n10:00 AM: Leave for Malvan Chivla beach for Water sports\n11:00 AM: Water Sports Registration\n12:00 PM: Mastiiiii on beach\n01:00 PM: Scuba Diving (Chivla Beach)\n02:00 PM: Banana Ride, Bumper, Jetski, Parasailing\n03:00 PM: Have Lunch\n04:00 PM: Back to room get fresh\n05:30 PM: Evening Tea\n06:00 PM: Travel to Rock Garden\n06:30 PM: Sunset View Rock Garden Beach Side\n07:30 PM: Back to Hotel\n08:30 PM: Dinner\n10:00 PM: Sleep",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13f8"
+      }
+    },
+    {
+      "day": "3",
+      "description": "Sunday:\n05:00 AM: Wake up call\n05:30 AM: Leave for Tarkarli Beach\n08:00 AM: Back to Hotel\n08:30 AM: Have Breakfast\n09:00 AM: Check out from Hotel and Leave for Sindhudurg Fort\n01:00 PM: Explore Sindhudurg Fort\n02:00 PM: Have Lunch\n03:00 PM: Leave for Tusnami Island\n05:00 PM: Explore & fun on Tusnami Island\n06:00 PM: Back to Journey Pune\n10:00 PM: Dinner at Kolhapur (Not Included)\n11:00 PM: Start Return Journey Towards Pune with lots of Memories",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13f9"
+      }
+    },
+    {
+      "day": "4",
+      "description": "Monday:\n05:00 AM: Reach Pune / Mumbai",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13fa"
+      }
+    }
+  ],
+  "backpacking_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageTrek": "Malvan Tarkarli Beach",
+    "region": "Sindhudurg",
+    "totalTimeOfEvent": 0,
+    "duration": "1 Night 2 Days"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling Pune to Pune (Non-AC Bus)",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13fb"
+      }
+    },
+    {
+      "item": "Stay on sharing Basis (3 or 4 Sharing), if you want couple room then 1000/- extra",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13fc"
+      }
+    },
+    {
+      "item": "2 Breakfast, 2 Tea",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13fd"
+      }
+    },
+    {
+      "item": "2 Lunch - Veg",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13fe"
+      }
+    },
+    {
+      "item": "1 Dinner Veg / Nonveg",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd13ff"
+      }
+    },
+    {
+      "item": "Entry Fee",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1400"
+      }
+    },
+    {
+      "item": "Water Activity Charges",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1401"
+      }
+    },
+    {
+      "item": "First Aid Kit",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1402"
+      }
+    },
+    {
+      "item": "Rock Garden Entry Fee",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1403"
+      }
+    },
+    {
+      "item": "Sindhudurg Entry Fee",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1404"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1405"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1406"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1407"
+      }
+    },
+    {
+      "item": "Warm clothing",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1408"
+      }
+    },
+    {
+      "item": "Good shoes, extra pair of socks",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1409"
+      }
+    },
+    {
+      "item": "Torch with an extra battery (Must)",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140a"
+      }
+    },
+    {
+      "item": "A bottle of water (at least 1 Ltrs)",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140b"
+      }
+    },
+    {
+      "item": "Some ready to eat food. cakes, lays, Biscuits, etc.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140c"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140d"
+      }
+    },
+    {
+      "item": "Sleeping bags / Blanket if needed (optional)",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140e"
+      }
+    },
+    {
+      "item": "Please do not carry sling bags",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd140f"
+      }
+    },
+    {
+      "item": "Please avoid wearing Gold and other ornaments",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1410"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [],
+    "mumbai": []
+  },
+  "faqs": [
+    {
+      "question": "Is drinking and smoking allowed?",
+      "answer": "We don’t encourage campers for such activities. It is allowed but please note you should carry your own items and will be liable to take the responsibility for any kind of damage caused during the activity.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1411"
+      }
+    },
+    {
+      "question": "Is Jain food available?",
+      "answer": "Yes, it is available but one needs to contact us in advance while booking to check the availability of the same.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1412"
+      }
+    },
+    {
+      "question": "Is this camping available for couples and families?",
+      "answer": "Yes, we invite couples and families along with children for camping to have a friendly and memorable event with us.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1413"
+      }
+    },
+    {
+      "question": "Is transportation available for camping?",
+      "answer": "No, transportation is not included. We can arrange for the same if required by customers for a large group with some extra charges. Please contact our customer care for more details.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1414"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "Cancellation is allowed only before 2 days of the event. Please note there is no refund if you cancel 1 day prior to the event.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1415"
+      }
+    },
+    {
+      "question": "Is the camp safe for carrying pricey items?",
+      "answer": "We recommend not to carry expensive and heavy materials. Please take care of your own belongings as we are not responsible for the same.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1416"
+      }
+    },
+    {
+      "question": "Do you have separate washrooms?",
+      "answer": "Yes, we provide separate washrooms for both (male and female).",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1417"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1418"
+      }
+    },
+    {
+      "question": "Is there anything we should remember while joining the event?",
+      "answer": "Please carry your personal ID cards with you while coming for the event. And avoid heavy backpacks.",
+      "_id": {
+        "$oid": "66572b0b160018fdf8cd1419"
+      }
+    }
+  ],
+  "__v": 0
+}]

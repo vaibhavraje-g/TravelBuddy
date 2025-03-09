@@ -1,0 +1,452 @@
+[{
+  "_id": {
+    "$oid": "662116747d404dbbb33aea7a"
+  },
+  "image": "https://example.com/malvan.jpg",
+  "title": "Malvan-Tarkarli Backpacking trip",
+  "date": {
+    "start_date": {
+      "$date": "2024-04-19T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-04-22T00:00:00.000Z"
+    }
+  },
+  "location": "Malvan-Tarkarli Beach, Tal. Malvan Dis. Sindhudurg ",
+  "details": "Malvan Beach",
+  "upcoming_batches": [
+    {
+      "date": {
+        "$date": "2024-04-26T00:00:00.000Z"
+      },
+      "available_slots": 10,
+      "booked_slots": 5,
+      "_id": {
+        "$oid": "662116747d404dbbb33aea7b"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-05-03T00:00:00.000Z"
+      },
+      "available_slots": 8,
+      "booked_slots": 2,
+      "_id": {
+        "$oid": "662116747d404dbbb33aea7c"
+      }
+    }
+  ],
+  "attraction": [
+    {
+      "day": "1",
+      "item": "Sunset view at Rock Garden",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea7d"
+      }
+    },
+    {
+      "day": "2",
+      "item": "Tsunami Island",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea7e"
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "description": "Saturday Night Leave from Pune 09.00 pm Pickup First pickup 01 : Shivaji Nagar Infront of Maharashtra Bank Second Pickup 02 : Chandni chowk",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea7f"
+      }
+    },
+    {
+      "day": 2,
+      "description": "10:30 PM Sleep",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea80"
+      }
+    },
+    {
+      "day": 3,
+      "description": "Start Return Journey to Pune / Mumbai",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea81"
+      }
+    },
+    {
+      "day": 4,
+      "description": "Return Monday Early Morning Till 5.00 AM Max 05:00 AM : Reach Pune , Max 10:00 AM : Reach Mumbai",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea82"
+      }
+    }
+  ],
+  "trek_event_details": {
+    "difficultyLevel": "Easy",
+    "baseVillageTrek": "Malvan-Tarkarli Beach",
+    "region": "Sindhudurg",
+    "duration": "2 Night 3 Day"
+  },
+  "costInclude": [
+    {
+      "item": "Travelling by Non AC private bus",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea83"
+      }
+    },
+    {
+      "item": "Two Breakfast and Tea",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea84"
+      }
+    },
+    {
+      "item": "Two Lunch - Veg",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea85"
+      }
+    },
+    {
+      "item": "One Dinner - Veg/NonVeg",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea86"
+      }
+    },
+    {
+      "item": "Home Stay Rooms - 03 person sharing",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea87"
+      }
+    },
+    {
+      "item": "05 Water Activities (With Best Trained Guides)(Scuba, Parasailing, Bumper Ride, Jetski Ride & Banana Ride)",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea88"
+      }
+    },
+    {
+      "item": "Rock Garden Tickets",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea89"
+      }
+    },
+    {
+      "item": "Sindhudurg Fort Tickets",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8a"
+      }
+    },
+    {
+      "item": "First-aid Kit",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8b"
+      }
+    },
+    {
+      "item": "Expertise",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8c"
+      }
+    },
+    {
+      "item": "Trek Guide",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8d"
+      }
+    }
+  ],
+  "costExclude": [
+    {
+      "item": "Dinner (Our captains will provide you with the best options we can offer you)",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8e"
+      }
+    },
+    {
+      "item": "Any tea/breakfast expenses you take over the travel breaks",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea8f"
+      }
+    },
+    {
+      "item": "Water Bottles",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea90"
+      }
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "item": "Most Important your ID proof",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea91"
+      }
+    },
+    {
+      "item": "Full pants and full sleeves t-shirts to protect from tanning, thorns, insects during the trek",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea92"
+      }
+    },
+    {
+      "item": "Snacks (Energy bars, Chikki, Biscuits, Sprouts, Chips, Dry fruits)",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea93"
+      }
+    },
+    {
+      "item": "Glucon-D/Protein shakes/ORS",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea94"
+      }
+    },
+    {
+      "item": "Extra pair of clothes",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea95"
+      }
+    },
+    {
+      "item": "Towel",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea96"
+      }
+    },
+    {
+      "item": "Personal medicines if any",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea97"
+      }
+    },
+    {
+      "item": "Shoes / Chappal",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea98"
+      }
+    },
+    {
+      "item": "Suncap or Sunscreen",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea99"
+      }
+    },
+    {
+      "item": "Please carry a  Jacket & cover your phones also in a plastic cover",
+      "_id": {
+        "$oid": "662116747d404dbbb33aea9a"
+      }
+    }
+  ],
+  "pickUpPoints": {
+    "pune": [
+      {
+        "location": "Chhatrapati Shivaji Maharaj bus stop (Shivajinagar Pune) In front of Bank of Maharashtra",
+        "_id": {
+          "$oid": "662116747d404dbbb33aea9b"
+        }
+      },
+      {
+        "location": "Deccan",
+        "_id": {
+          "$oid": "662116747d404dbbb33aea9c"
+        }
+      },
+      {
+        "location": "Swargate",
+        "_id": {
+          "$oid": "662116747d404dbbb33aea9d"
+        }
+      },
+      {
+        "location": "Nawale Bridge",
+        "_id": {
+          "$oid": "662116747d404dbbb33aea9e"
+        }
+      }
+    ],
+    "mumbai": [
+      {
+        "location": "Borivali west",
+        "_id": {
+          "$oid": "662116747d404dbbb33aea9f"
+        }
+      },
+      {
+        "location": "Borivali East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa0"
+        }
+      },
+      {
+        "location": "Kandivali East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa1"
+        }
+      },
+      {
+        "location": "Malad East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa2"
+        }
+      },
+      {
+        "location": "Goregaon East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa3"
+        }
+      },
+      {
+        "location": "Jogeshwari East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa4"
+        }
+      },
+      {
+        "location": "Andheri East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa5"
+        }
+      },
+      {
+        "location": "Ville Parle East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa6"
+        }
+      },
+      {
+        "location": "Santacruz East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa7"
+        }
+      },
+      {
+        "location": "Bandra East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa8"
+        }
+      },
+      {
+        "location": "Sion",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaa9"
+        }
+      },
+      {
+        "location": "Chembur West",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaaa"
+        }
+      },
+      {
+        "location": "Chembur East",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaab"
+        }
+      },
+      {
+        "location": "Vashi Toll Plaza",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaac"
+        }
+      },
+      {
+        "location": "Nerul",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaad"
+        }
+      },
+      {
+        "location": "Belapur CBD",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaae"
+        }
+      },
+      {
+        "location": "Kharghar",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeaaf"
+        }
+      },
+      {
+        "location": "Kalamboli - Near MCDonald",
+        "_id": {
+          "$oid": "662116747d404dbbb33aeab0"
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do we need to know swimming for Water activities ?",
+      "answer": "There is no such requirement as our experts will be there with you for help",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab1"
+      }
+    },
+    {
+      "question": "Is this trek safe for girls?",
+      "answer": "This trek is completely safe for girls. We have girl volunteers specially appointed for girls. And have separate changing rooms.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab2"
+      }
+    },
+    {
+      "question": "How many trek leaders will be available?",
+      "answer": "There will be 01 trek leader available for a group of 8 people in each trek.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab3"
+      }
+    },
+    {
+      "question": "How do I get in touch with trek leaders and trek groups ?",
+      "answer": "We add participants in our Whatsapp group one day prior to the event.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab4"
+      }
+    },
+    {
+      "question": "Can I cancel my booking?",
+      "answer": "You can check our cancel policy for the same. Or you can join us on the next trek (please inform us before 2 days)",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab5"
+      }
+    },
+    {
+      "question": "What is prohibited in this trek?",
+      "answer": "Smoking, Drinking and undesclipined behaviour is prohibited",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab6"
+      }
+    },
+    {
+      "question": "Are changing rooms provided?",
+      "answer": "Yes, separate (Male/Female) changing rooms are provided.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab7"
+      }
+    },
+    {
+      "question": "What is the type of bus ?",
+      "answer": "The bus is NON/AC Tempo Traveler with decent seating comfort.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab8"
+      }
+    },
+    {
+      "question": "Are washrooms available on the trek?",
+      "answer": "Washrooms are available at the base village only. No facility is available during the trek.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeab9"
+      }
+    },
+    {
+      "question": "Pick up points",
+      "answer": "Pick up is available if your location comes in between our route for this you have to contact us before.",
+      "_id": {
+        "$oid": "662116747d404dbbb33aeaba"
+      }
+    }
+  ],
+  "__v": 0
+}]

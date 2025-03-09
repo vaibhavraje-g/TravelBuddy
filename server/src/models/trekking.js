@@ -86,88 +86,88 @@ const trekSchema = new mongoose.Schema(
 const Trekking = mongoose.models.Trekking || mongoose.model("Trekking", trekSchema);
 
 // Hardcoded trek data variable (replace with your actual data)
-const trekData = [
-  {
-    _id: new mongoose.Types.ObjectId(),
-    date: {
-      start_date: new Date("2025-04-01"),
-      end_date: new Date("2025-04-01")
-    },
-    trek_event_details: {
-      difficultyLevel: "Moderate",
-      baseVillageTrek: "Lonavala",
-      region: "Sahyadri",
-      totalTimeOfTrek: "5 Hours",
-      duration: "Full Day"
-    },
-    pickUpPoints: {
-      pune: [
-        { location: "Deccan Gymkhana, Pune", _id: new mongoose.Types.ObjectId() }
-      ],
-      mumbai: [
-        { location: "Andheri, Mumbai", _id: new mongoose.Types.ObjectId() }
-      ]
-    },
-    image: {
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/74/Rajmachi_Fort.jpg",
-      imageSrc: "Wikimedia Commons"
-    },
-    type: "Trek",
-    modifiedBy: "Admin",
-    title: "Rajmachi Fort Trek",
-    location: "Maval, Maharashtra",
-    details: "Explore the historic Rajmachi Fort near Lonavala with breathtaking views and ancient ruins.",
-    upcoming_batches: [
-      {
-        date: new Date("2025-04-05"),
-        available_slots: 10,
-        booked_slots: 0,
-        _id: new mongoose.Types.ObjectId()
-      }
-    ],
-    itinerary: [
-      {
-        day: "Day 1",
-        description: "Trek to Rajmachi Fort, explore the fort ruins and enjoy panoramic views.",
-        _id: new mongoose.Types.ObjectId()
-      }
-    ],
-    costInclude: [
-      { item: "Breakfast", _id: new mongoose.Types.ObjectId() },
-      { item: "Lunch", _id: new mongoose.Types.ObjectId() },
-      { item: "Guide", _id: new mongoose.Types.ObjectId() }
-    ],
-    costExclude: [
-      { item: "Transport", _id: new mongoose.Types.ObjectId() }
-    ],
-    thingsToCarry: [
-      { item: "Water Bottle", _id: new mongoose.Types.ObjectId() },
-      { item: "Sunscreen", _id: new mongoose.Types.ObjectId() },
-      { item: "Cap", _id: new mongoose.Types.ObjectId() }
-    ],
-    faqs: [
-      {
-        question: "What is the difficulty level?",
-        answer: "Moderate trek suitable for beginners.",
-        _id: new mongoose.Types.ObjectId()
-      }
-    ]
-  },
-  // ... Additional 4 records follow similarly
-];
+// const trekData = [
+//   {
+//     _id: new mongoose.Types.ObjectId(),
+//     date: {
+//       start_date: new Date("2025-04-01"),
+//       end_date: new Date("2025-04-01")
+//     },
+//     trek_event_details: {
+//       difficultyLevel: "Moderate",
+//       baseVillageTrek: "Lonavala",
+//       region: "Sahyadri",
+//       totalTimeOfTrek: "5 Hours",
+//       duration: "Full Day"
+//     },
+//     pickUpPoints: {
+//       pune: [
+//         { location: "Deccan Gymkhana, Pune", _id: new mongoose.Types.ObjectId() }
+//       ],
+//       mumbai: [
+//         { location: "Andheri, Mumbai", _id: new mongoose.Types.ObjectId() }
+//       ]
+//     },
+//     image: {
+//       imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/74/Rajmachi_Fort.jpg",
+//       imageSrc: "Wikimedia Commons"
+//     },
+//     type: "Trek",
+//     modifiedBy: "Admin",
+//     title: "Rajmachi Fort Trek",
+//     location: "Maval, Maharashtra",
+//     details: "Explore the historic Rajmachi Fort near Lonavala with breathtaking views and ancient ruins.",
+//     upcoming_batches: [
+//       {
+//         date: new Date("2025-04-05"),
+//         available_slots: 10,
+//         booked_slots: 0,
+//         _id: new mongoose.Types.ObjectId()
+//       }
+//     ],
+//     itinerary: [
+//       {
+//         day: "Day 1",
+//         description: "Trek to Rajmachi Fort, explore the fort ruins and enjoy panoramic views.",
+//         _id: new mongoose.Types.ObjectId()
+//       }
+//     ],
+//     costInclude: [
+//       { item: "Breakfast", _id: new mongoose.Types.ObjectId() },
+//       { item: "Lunch", _id: new mongoose.Types.ObjectId() },
+//       { item: "Guide", _id: new mongoose.Types.ObjectId() }
+//     ],
+//     costExclude: [
+//       { item: "Transport", _id: new mongoose.Types.ObjectId() }
+//     ],
+//     thingsToCarry: [
+//       { item: "Water Bottle", _id: new mongoose.Types.ObjectId() },
+//       { item: "Sunscreen", _id: new mongoose.Types.ObjectId() },
+//       { item: "Cap", _id: new mongoose.Types.ObjectId() }
+//     ],
+//     faqs: [
+//       {
+//         question: "What is the difficulty level?",
+//         answer: "Moderate trek suitable for beginners.",
+//         _id: new mongoose.Types.ObjectId()
+//       }
+//     ]
+//   },
+//   // ... Additional 4 records follow similarly
+// ];
 
 
-// Seed function to insert trek data
-async function seedTrek() {
-  try {
-    // Ensure DB is connected (connection is typically established in app.js)
-    await Trekking.deleteMany();
-    await Trekking.create(trekData);
-    console.log("Treks seeded successfully.");
-  } catch (err) {
-    console.error("Error seeding treks:", err.message);
-  }
-}
-seedTrek();
+// // Seed function to insert trek data
+// async function seedTrek() {
+//   try {
+//     // Ensure DB is connected (connection is typically established in app.js)
+//     await Trekking.deleteMany();
+//     await Trekking.create(trekData);
+//     console.log("Treks seeded successfully.");
+//   } catch (err) {
+//     console.error("Error seeding treks:", err.message);
+//   }
+// }
+// seedTrek();
 
 module.exports = Trekking;
